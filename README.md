@@ -67,7 +67,7 @@ My personal portfolio showcasing projects and professional experience, built wit
 ## About Me
 Outside of work, I am a dedicated mom, lifelong learner, and someone who genuinely enjoys building things from scratch whether that means baking for my family or refining a new idea. I value discipline, consistency, and attention to detail, qualities shaped by my legal background and years of working in high-responsibility environments. I recharge through time with family, experimenting in the kitchen, and staying curious about how systems work both in life and in business.
 
---
+---
 
 ## Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/evan-marshall-dev/](https://www.linkedin.com/in/natalia-pricop/))
