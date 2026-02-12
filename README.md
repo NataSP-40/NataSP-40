@@ -1,6 +1,6 @@
 ## Hi! I am Natalia Pricop!
 
-Full Stack Software Engineer focused on building secure, database-driven web applications from concept to deployment.
+**Full Stack Software Engineer** focused on building secure, database-driven web applications from concept to deployment.
 
 I design full CRUD systems, implement authentication flows, structure relational data models, and connect clean APIs to responsive user interfaces. I care about clear architecture, predictable data flow, and writing code that is easy to reason about and scale.
 
