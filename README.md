@@ -11,7 +11,7 @@ I enjoy solving real problems, refining edge cases, and turning complex requirem
 ## Featured Projects
 
 ### [Study Planner](https://github.com/NataSP-40/Study-Planner-front-end.git)
-a comprehensive web application designed to help students organize their study sessions, track their progress, and manage their learning materials effectively.
+A comprehensive web application designed to help students organize their study sessions, track their progress, and manage their learning materials effectively.
 
 ### [Numeneon](https://github.com/NataSP-40/Numeneon-frontend.git)
 A social media app with a unique River Timeline feed design. Was built as a collaborative project.
