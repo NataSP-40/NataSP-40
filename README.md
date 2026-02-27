@@ -16,6 +16,12 @@ A comprehensive web application designed to help students organize their study s
 ### [Numeneon](https://github.com/NataSP-40/Numeneon-frontend.git)
 A social media app with a unique River Timeline feed design. Was built as a collaborative project.
 
+### [SpesHub](https://github.com/NataSP-40/django-crud-app-lab.git)
+A Django-based job marketplace application that enables users to post job listings, build their skills profile, and match their qualifications against job requirements. Users can discover opportunities based on skill alignment and associate their skills with relevant positions.
+
+### [Recipe Journal](https://github.com/NataSP-40/Recipe-Journal.git)
+A full-stack web application that allows users to securely manage their personal collection of recipes. Users can sign up, log in, and then create, view, edit, or delete recipes. Each recipe includes details like category, meal type, speciality, ingredients, and instructions. 
+
 ### [Kitten Rescue](https://github.com/NataSP-40/Kitten-Rescue.git)
 A fun, fast-paced memory and strategy game where players must find five hidden kittens before time runs out. Each tile can hide a kitten, a dog, or simply be empty. The challenge intensifies when a dog is revealed, as all previously found kittens hide again, testing the player's memory under pressure! Each level gets faster, and the stakes get higher.
 
