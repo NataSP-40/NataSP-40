@@ -16,6 +16,9 @@ A comprehensive web application designed to help students organize their study s
 ### [Numeneon](https://github.com/NataSP-40/Numeneon-frontend.git)
 A social media app with a unique River Timeline feed design. Was built as a collaborative project.
 
+### [Kitten Rescue](https://github.com/NataSP-40/Kitten-Rescue.git)
+A fun, fast-paced memory and strategy game where players must find five hidden kittens before time runs out. Each tile can hide a kitten, a dog, or simply be empty. The challenge intensifies when a dog is revealed, as all previously found kittens hide again, testing the player's memory under pressure! Each level gets faster, and the stakes get higher.
+
 <!-- ### [Portfolio Website] ()
 My personal portfolio showcasing projects and professional experience, built with modern web technologies and optimized for performance.
 -->
