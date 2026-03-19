@@ -2,9 +2,12 @@
 
 **Full Stack Software Engineer** focused on building secure, database-driven web applications from concept to deployment.
 
-I design full CRUD systems, implement authentication flows, structure relational data models, and connect clean APIs to responsive user interfaces. I care about clear architecture, predictable data flow, and writing code that is easy to reason about and scale.
+My coding is informed by my three different worlds, the precise, analytical logic of legal work, the grit and creativity of building a business from the ground up, and the fast-paced, human-first environment of airport passenger service.
 
-I enjoy solving real problems, refining edge cases, and turning complex requirements into reliable, working software.
+I build with purpose and curiosity and my "lawyer-brain" logic to create back-end web and app solutions that focus on the user.
+
+Using precision, strategic problem-solving, and human-centric thinking to every team, I bring a level of accountability and expertise you won't find in a standard dev portfolio.
+
 
 ---
 
