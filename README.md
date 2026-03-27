@@ -28,12 +28,8 @@ A full-stack web application that allows users to securely manage their personal
 ### [Kitten Rescue](https://github.com/NataSP-40/Kitten-Rescue.git)
 A fun, fast-paced memory and strategy game where players must find five hidden kittens before time runs out. Each tile can hide a kitten, a dog, or simply be empty. The challenge intensifies when a dog is revealed, as all previously found kittens hide again, testing the player's memory under pressure! Each level gets faster, and the stakes get higher.
 
-<!-- ### [Natalia Pricop Portfolio Website] (https://github.com/NataSP-40/portfolio-pro.git)
-My personal portfolio showcasing projects and professional experience, built with modern web technologies and optimized for performance.
--->
-
-### [] ()
-
+### [Natalia Pricop](https://github.com/NataSP-40/portfolio-pro.git)
+A modern, responsive developer portfolio that showcases profile details, project work, technical skills, and contact information through a clean single-page experience. The project is split into a React frontend and a Django REST backend, with support for cloud media storage and production-ready security settings.
 ---
 
 ## Technical Skils
