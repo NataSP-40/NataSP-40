@@ -30,7 +30,7 @@ A fun, fast-paced memory and strategy game where players must find five hidden k
 
 ### [Natalia Pricop](https://github.com/NataSP-40/portfolio-pro.git)
 A modern, responsive developer portfolio that showcases profile details, project work, technical skills, and contact information through a clean single-page experience. The project is split into a React frontend and a Django REST backend, with support for cloud media storage and production-ready security settings.
----
+
 
 ## Technical Skils
 
